@@ -24,11 +24,16 @@
 </div>
     
 ## *GitHub Statistics:*
-<div align-content="space-around">
-  <a href="https://github.com/leonardorafaelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorafaelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorafaelli&layout=compact&langs_count=7&theme=gotham"/>
-</div>    
+<a href="https://github.com/leonardorafaelli">
+    <div align-content="space-around">
+        <div>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorafaelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+        </div>
+        <div>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorafaelli&layout=compact&langs_count=7&theme=gotham"/>
+        </div>
+    </div>
+</a>
     
 
 
