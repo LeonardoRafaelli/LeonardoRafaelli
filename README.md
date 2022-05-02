@@ -12,7 +12,7 @@
     }
 ```
 
-## **Languages:** 
+## *Languages:*
 <div style="display: inline_block"><br>
 <code><img alt="Leo-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img alt="Leo-Ts" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
@@ -23,7 +23,7 @@
 <code><img alt="Leo-JAVA" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 </div>
     
-## **GitHub Statistics:**
+## *GitHub Statistics:*
 <div align="center">
   <a href="https://github.com/leonardorafaelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorafaelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
