@@ -1,6 +1,6 @@
 ### *Welcome to my profile :-)* :wave:
-<a width="30">![wave](https://user-images.githubusercontent.com/87677774/166171261-a14d539f-caf5-4773-8af3-264b922078a3.gif);</a>
 
+<img width="30" src="https://user-images.githubusercontent.com/87677774/166171261-a14d539f-caf5-4773-8af3-264b922078a3.gif" />
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
@@ -37,6 +37,7 @@
 <div> 
   <a href = "mailto:leonardorafaelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-rafaelli-5338b8211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
 </div>
+    
+    
+![wave](https://user-images.githubusercontent.com/87677774/166171261-a14d539f-caf5-4773-8af3-264b922078a3.gif)
