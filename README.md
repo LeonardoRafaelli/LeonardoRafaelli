@@ -1,4 +1,15 @@
 ### *Welcome to my profile :-)* :wave:
+<span style=" animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+  animation-play-state: running; /* Play animation on mouse hover */">
+    👋
+</span>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
