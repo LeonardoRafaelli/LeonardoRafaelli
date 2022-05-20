@@ -1,6 +1,6 @@
 ### *Welcome to my profile :-)*<img width="40" src="https://user-images.githubusercontent.com/87677774/166171261-a14d539f-caf5-4773-8af3-264b922078a3.gif" />
 
-<div style="display: flex; justify-content:space-even; flex-direction: column;">
+<div style="width: 100%; display: flex; justify-content:space-even; flex-direction: column;">
 <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <img align="center" width="400" src="https://user-images.githubusercontent.com/87677774/169579218-e1e0e244-6854-4d68-8524-5bcf8a60a5b0.png" />
 </div>
