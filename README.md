@@ -11,7 +11,7 @@
     }
 ```
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<img width="auto" src="https://user-images.githubusercontent.com/87677774/169579218-e1e0e244-6854-4d68-8524-5bcf8a60a5b0.png" />
+<img align="left" width="300" src="https://user-images.githubusercontent.com/87677774/169579218-e1e0e244-6854-4d68-8524-5bcf8a60a5b0.png" />
 
 
 ## *Languages:*
