@@ -1,6 +1,6 @@
 ### *Welcome to my profile :-)*<img width="40" src="https://user-images.githubusercontent.com/87677774/166171261-a14d539f-caf5-4773-8af3-264b922078a3.gif" />
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="left" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
     while(alive){
