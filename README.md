@@ -5,6 +5,8 @@
    <img width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </p>
 
+*About Me:*
+<p>Me chamo Leonardo Rafaelli, tenho 17 anos e atualmente curso o Ensino Médio integrado com Desenvolvimento de Sistemas na parte da manhã (SENAI). À tarde e à noite, curso Aprendizagem Industrial de Programador de Sistemas de Informação (WEG)</p>
 ```js
     while(alive){
       day++;
