@@ -24,7 +24,7 @@
 <img align="center" width="400" src="https://user-images.githubusercontent.com/87677774/169579218-e1e0e244-6854-4d68-8524-5bcf8a60a5b0.gif" />
 
 
-## *Languages:*
+## *Languages I work with:*
 <div style="display: inline_block"><br>
 
 <code><img alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
