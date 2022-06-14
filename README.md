@@ -6,8 +6,11 @@
 </p>
 
 **>> About Me <<**
-
+<p>BR-pt</p>
 <p>Me chamo Leonardo Rafaelli, tenho 17 anos e atualmente curso o Ensino Médio integrado com Desenvolvimento de Sistemas na parte da manhã (SENAI). À tarde e à noite, curso Aprendizagem Industrial de Programador de Sistemas de Informação (WEG)</p>
+
+
+<p>My name is Leonardo Rafaelli, I'm 17 years old and currently I doing high school integrated with system development during the morning. At afternoon and evening, I course Industrial Learning of Information System Programmer on WEG</p>
 
 ##
 
