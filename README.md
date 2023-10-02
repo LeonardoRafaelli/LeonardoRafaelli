@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60" style="max-width: 100%;"></a> to my profile! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" style="max-width: 100%;"></a>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60" style="max-width: 100%;"></a> to my profile! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" style="max-width: 100%;"></a>
 
 
 <p align="center">
