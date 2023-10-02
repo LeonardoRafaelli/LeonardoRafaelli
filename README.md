@@ -7,10 +7,10 @@
 
 **>> About Me <<**
 <p>BR-pt</p>
-<p>Me chamo Leonardo Rafaelli, tenho 18 anos e atualmente curso Aprendizagem Industrial de Programador de Sistemas de Informação na (WEG), falo inglês fluente e alemão básico</p>
+<p>Me chamo Leonardo Rafaelli, tenho 19 anos e atualmente trabalho como Desenvolvedor de Software Embarcado, falo inglês fluente e alemão básico</p>
 
 <p>EN-en</p>
-<p>My name is Leonardo Rafaelli, I'm 18 years old and currently I doing a course of Industrial Learning of Information System Programmer at WEG, I speak English fluently and basic German</p>
+<p>My name is Leonardo Rafaelli, I'm 19 years old and currently I'm working as a Embedded Software Developer, I speak fluently English and basic German</p>
 
 ##
 
