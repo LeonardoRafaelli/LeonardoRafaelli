@@ -10,7 +10,7 @@
 <p>Me chamo Leonardo Rafaelli, tenho 19 anos e atualmente trabalho como Desenvolvedor de Software Embarcado, falo inglês fluente e alemão básico</p>
 
 <p>EN-en</p>
-<p>My name is Leonardo Rafaelli, I'm 19 years old and currently I'm working as a Embedded Software Developer, I speak fluently English and basic German</p>
+<p>My name is Leonardo Rafaelli, I'm 19 years old and I'm currenlty working as an Embedded Software Developer, I speak fluently English and basic German</p>
 
 ##
 
