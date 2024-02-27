@@ -6,7 +6,7 @@
 </p>
 
 **>> About Me <<**
-<p>19yo, currenlty working as Embedded Software Developer, fluent English and intermediate German knowledges</p>
+<p>I'm Leo, 19yo. A brazilian living in ULM Germany, fluent english, B1 german and studying/working in tech for 3 years now. Feel free to reach me wherever you can :)</p>
 
 ##
 
