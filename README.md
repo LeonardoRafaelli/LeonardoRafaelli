@@ -6,7 +6,7 @@
 </p>
 
 **>> About Me <<**
-<p>I'm Leo, 19yo. A brazilian living in ULM Germany, fluent english, B1 german and studying/working in tech for 3 years now. Feel free to reach me wherever you can :)</p>
+<p>I'm Leo, 19yo. A brazilian living in Ulm Germany, studying/working in tech area for 3 years now. Everyday falling more in love with it</p>
 
 ##
 
