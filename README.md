@@ -23,7 +23,8 @@
 
 ## *GitHub Statistics:*
 
-<div>
+<div style="display: flex">
+   
 ![](https://raw.githubusercontent.com/LeonardoRafaelli/myGithubStats/master/generated/languages.svg#gh-dark-mode-only)
 
 ![](https://raw.githubusercontent.com/LeonardoRafaelli/myGithubStats/master/generated/overview.svg#gh-dark-mode-only)
