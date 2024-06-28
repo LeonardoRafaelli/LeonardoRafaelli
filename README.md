@@ -20,23 +20,16 @@
     }
 ```
 
-<div style="display: inline_block"><br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-</div>
 
 ## *GitHub Statistics:*
 
-<a href="https://github.com/leonardorafaelli" text-decoration="none">
-    <div display:"flex">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardorafaelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorafaelli&layout=compact&langs_count=7&theme=gotham"/>
-    </div>
-</a>
+<div>
+![](https://raw.githubusercontent.com/LeonardoRafaelli/myGithubStats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/LeonardoRafaelli/myGithubStats/master/generated/overview.svg#gh-dark-mode-only)
+</div>
+
+
 
 ## *Contact:*
 
