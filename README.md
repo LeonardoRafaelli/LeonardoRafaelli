@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="60" style="max-width: 100%;"></a> to my profile! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" style="max-width: 100%;"></a>
 
 <p align="center">
@@ -25,7 +28,22 @@
    
 ![](https://github.com/LeonardoRafaelli/myGithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
+## *Stack:*
 
+<div style="display: flex;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width: 4rem"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width: 4rem"/>
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 4rem"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" style="width: 4rem"/>
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 4rem;"/>       
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width: 4rem"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" style="width: 4rem"/>       
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width: 4rem"/>       
+</div>
+          
+          
 ## *Contact:*
 
 <div> 
