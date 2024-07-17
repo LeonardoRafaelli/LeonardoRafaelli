@@ -24,7 +24,7 @@
 ```
 
 
-## *GitHub Statistics:*
+## *Language Stats:*
    
 ![](https://github.com/LeonardoRafaelli/myGithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
