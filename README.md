@@ -9,7 +9,7 @@
 
 ##
 
-<p>I'm Leo, 20yo. Directly from Brazil, currently based in Ulm, Germany. In tech area for over 3 years now. </p>
+<p>I'm Leo, 21yo. Directly from Brazil, currently based in Ulm, Germany. In tech area for over 3 years now. </p>
 <p>Everyday falling more in love with it.</p>
 
 ```js
